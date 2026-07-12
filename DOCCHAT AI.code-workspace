@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "DOCCHAT AI",
+			"path": "../DOCCHAT AI"
+		},
+		{
+			"name": "venv",
+			"path": "venv"
+		}
+	],
+	"settings": {}
+}
